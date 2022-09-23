@@ -4,7 +4,7 @@
 --> 
 <p align="center">
     <img src="https://i.ibb.co/py56mbd/text-1663966555825.png">
-</p><br />
+</p>
 
 <p align="center">
     <a href=".">Read the docs</a> • <a href=".">Become a Vyne contributor</a>
