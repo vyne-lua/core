@@ -1,2 +1,2 @@
-// _jsholder.js
+// _jsholder.ts
 console.log("Hello, world");
