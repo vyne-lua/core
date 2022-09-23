@@ -6,7 +6,7 @@
     <b>Requirements</b><br />
     Luvit v2.18.1+<br />
     Node.js v16.17.1+<br />   
-</p>
+</p><br />
 
 
 <b>Contributing to Vyne is really simple - fork the repository and start making pull requests.</b>
