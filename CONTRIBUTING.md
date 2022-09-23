@@ -3,7 +3,7 @@
 </p><br/>
 
 <p align="center">
-    <b>Requirements</b>
+    <b>Requirements</b><br />
     Luvit v2.18.1+<br />
     Node.js v16.17.1+<br />   
 </p>
