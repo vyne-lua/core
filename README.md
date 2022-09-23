@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href=".">Read the docs</a> • <a href=".">Become a Vyne contributor</a>
+    <a href=".">Read the documentation</a> • <a href=".">Become a Vyne contributor</a>
 </p>
 
 <p>Vyne is a blazing-fast and declarative UI library for the web, creating reactive, versatile and aesthetic applications by manipulating the flexible syntax of Lua to provide simplicity and control over your site.</p>
