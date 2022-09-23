@@ -1,2 +1,2 @@
-// _jsholder.ts
-console.log("Hello, world");
+// _tsholder.ts
+// So TypeScript shows on language breakdown
