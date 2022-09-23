@@ -13,5 +13,5 @@
 
 <hr />
 
-<a href=".">Read the docs →</a>
+<a href=".">Read the docs →</a><br />
 <a href=".">Become a Vyne contributor →</a>
