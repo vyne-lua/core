@@ -4,7 +4,7 @@
 --> 
 <p align="center">
     <img src="https://i.ibb.co/py56mbd/text-1663966555825.png" alt="Vyne">
-</p>
+</p><br />
 
 <p>Vyne is a blazing-fast and declarative UI library for the web, creating reactive, versatile and aesthetic applications by manipulating the flexible syntax of Lua to provide simplicity and control over your site.</p>
 
