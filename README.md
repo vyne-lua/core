@@ -15,5 +15,5 @@
 <p>Write blazing-fast applications powered by LuaJIT, one of the fastest scripting environments, supercharging your site. Utilising a declarative and functional syntax, Vyne also allows for speedy development; you can get an application with Vyne up and running in hours!</p>
 
 <p align="center">
-    <a href="https://github.com/vyne-lua/examples">See Vyne Examples</a>
+    <a href="https://github.com/vyne-lua/examples">See examples</a>
 </p>
