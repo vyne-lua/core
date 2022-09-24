@@ -14,5 +14,6 @@
 
 <p>Vyne is comparable to JavaScript UI libraries, such as React, Angular and Ember. Vyne mimics the behaviour of these libraries, and allows for developers with these libraries to pick up the syntax easily.</p>
 
+<b>⚠️ WARNING: Vyne is currently in Alpha and should not be used in production as it is extremely unstable!</b>
 
 
