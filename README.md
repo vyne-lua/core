@@ -10,10 +10,6 @@
     <a href=".">Read the documentation</a> • <a href=".">Become a Vyne contributor</a>
 </p>
 
-<p>Vyne is a lightweight and elegant Lua library, creating reactive, versatile and blazing-fast applications by manipulating the flexible syntax of Lua to provide simplicity and control over your site.</p>
+<p>Vyne is a flexible, efficient and reactive library for creating elegant web applications. It manipulates the extensible and embeddable syntax of the Lua programming language to provide a superb user experience.</p>
 
-<p>Vyne is comparable to JavaScript UI libraries, such as React, Angular and Ember. Vyne mimics the behaviour of these libraries, and allows for developers with these libraries to pick up the syntax easily.</p>
-
-<b>⚠️ WARNING: Vyne is currently in Alpha and should not be used in production as it is extremely unstable!</b>
-
-
+<p>Write blazing-fast applications powered by LuaJIT, one of the fastest scripting environments, supercharging your site.</p>
