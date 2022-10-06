@@ -1,12 +1,8 @@
 -- An implementation of the `Symbol` type in Lua.
 
 return function(name)
-    local Symbol = {}
-
-    setmetatable(Symbol, {
+    return setmetatable({}, {
         __tostring = name,
         __index = {}
     })
-
-    return Symbol
 end
